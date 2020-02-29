@@ -11,13 +11,19 @@ import com.google.common.net.UrlEscapers;
 import org.apache.commons.io.IOUtils;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> a00fce2... Added Javadoc documentation
 /**
  * Class for obtaining geolocation information about an IP address or host
  * name. The class uses the <a href="http://ip-api.com/">IP-API.com</a>
  * service.
  */
+<<<<<<< HEAD
+>>>>>>> a00fce2... Added Javadoc documentation
+=======
 >>>>>>> a00fce2... Added Javadoc documentation
 public class GeoLocator {
 
